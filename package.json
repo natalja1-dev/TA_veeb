@@ -1,0 +1,23 @@
+{
+  "name": "ta_veeb",
+  "version": "1.0.0",
+  "description": "ta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natalja1-dev/TA_veeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natalja1-dev/TA_veeb/issues"
+  },
+  "homepage": "https://github.com/natalja1-dev/TA_veeb#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
